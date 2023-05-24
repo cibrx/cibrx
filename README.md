@@ -18,8 +18,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LegendMan46&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://emoji.discadia.com/emojis/095dc66c-df1e-409f-b560-6eb05ecc0ebc.png" />
+### 🏆 There Is No Tomorrow
+<img src="https://emoji.discadia.com/emojis/095dc66c-df1e-409f-b560-6eb05ecc0ebc.PNG" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LegendMan46&icon=0&color=1)](https://visitcount.itsvg.in)
