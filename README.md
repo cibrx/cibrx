@@ -1,5 +1,6 @@
 
 ## 🌐 Socials:
+<img src="https://emoji.discadia.com/emojis/e7d922b1-7c14-41d4-b89a-87dc20092c1e.PNG" />
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrrahim.cn) 
 
 # 💻 Tech Stack:
@@ -18,7 +19,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LegendMan46&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🏆 There Is No Tomorrow
+### 🏆 "There Is No Tomorrow"
 <img src="https://emoji.discadia.com/emojis/095dc66c-df1e-409f-b560-6eb05ecc0ebc.PNG" />
 
 ---
