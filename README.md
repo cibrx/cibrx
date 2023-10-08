@@ -1,6 +1,6 @@
 ## İbrahim Can
 
-- Interested in Cyber Security, Programming and GNU Linux/Unix ![image](https://github.com/LegendMan46/LegendMan46/assets/118071108/a512c5c4-e1fd-418d-8521-660a30284093)
+- Interested in Cyber Security, Programming, Object Detection and GNU Linux/Unix 🐧
 - Training in Web App Security 
 - [can46ibrahimcan@gmail.com](mailto:can46ibrahimcan@gmail.com)
 
