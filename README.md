@@ -1,6 +1,6 @@
 ## İbrahim Can
 
-- Interested in Cyber Security, Programming, Object Detection and GNU Linux/Unix 🐧
+- Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
 - Training in Web App Security 
 - [can46ibrahimcan@gmail.com](mailto:can46ibrahimcan@gmail.com)
 
