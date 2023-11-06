@@ -21,5 +21,5 @@
 <img src="https://emoji.discadia.com/emojis/095dc66c-df1e-409f-b560-6eb05ecc0ebc.PNG" />
 
 ---
-[![]([http://legendman46.rf.gd/views.html?i=1)](http://legendman46.rf.gd)
+![](http://legendman46.rf.gd/views.html?i=1)
 
