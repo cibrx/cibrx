@@ -21,6 +21,5 @@
 <img src="https://emoji.discadia.com/emojis/095dc66c-df1e-409f-b560-6eb05ecc0ebc.PNG" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LegendMan46&icon=0&color=1)](https://visitcount.itsvg.in)
+[![]([http://legendman46.rf.gd/views.html?i=1)](http://legendman46.rf.gd)
 
-<img src="https://camo.githubusercontent.com/fb2aff7……2e696e2…" alt data-canonical-src="https://visitcount.itsvg.in/api?id=LegendMan46&icon=0&color=1" style="max-width: 100%;">
