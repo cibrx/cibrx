@@ -23,5 +23,3 @@
 <svg xmlns="https://legendman46.rf.gd/views.html?i=1" width="147.6px" height="23px" fill="none">
   <!-- SVG içeriğinizi buraya yapıştırın -->
 </svg>
-https://solid-trout-56g7p5j7vvv3p6j.github.dev/
-https://prod.liveshare.vsengsaas.visualstudio.com/join?831C44167CD9E3C6131A73542C743AFD4029
