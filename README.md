@@ -17,6 +17,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=LegendMan46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 "There Is No Tomorrow"
-<img src="https://emoji.discadia.com/emojis/095dc66c-df1e-409f-b560-6eb05ecc0ebc.PNG" />
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/LegendMan46.png"/>
