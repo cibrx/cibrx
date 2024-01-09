@@ -1,8 +1,7 @@
 # İbrahim Can
 
 - Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
-- Training in Web App Security 
-- [can46ibrahimcan@gmail.com](mailto:can46ibrahimcan@gmail.com)
+- Training in Web App Security and also learning NodeJS
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LegendMan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
