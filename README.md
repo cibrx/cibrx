@@ -1,4 +1,4 @@
-# İbrahim Can
+# İbrahim Can <img src="https://github.com/LegendMan46/LegendMan46/blob/main/linux_tux_penguin%20(1).png" width=40 height=40>
 
 - Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
 - Training in Web App Security and also learning NodeJS
