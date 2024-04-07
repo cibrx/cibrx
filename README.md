@@ -3,6 +3,26 @@
 - Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
 - Training in Web App Security and also learning NodeJS
 
+## 👩🏻‍💻 My latest projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/LegendMan46/ChatCibrx">Chat Cibrx</a>
+    </td>
+    <td>
+      <span>Javascript</span>
+    </td>
+    <td>
+      <span>Real-time chat with admin privileges, bot support, and secure data handling.</span>
+    </td>
+    <td>
+      <img src="https://github.com/LegendMan46/ChatCibrx/raw/master/public/img/indexAd.png" width="100" height="100">
+    </td>
+  </tr>
+</table>
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LegendMan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LegendMan46&theme=dark&hide_border=false)<br/>
