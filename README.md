@@ -20,6 +20,20 @@
       <img src="https://github.com/LegendMan46/ChatCibrx/raw/master/public/img/indexAd.png" width="100" height="100">
     </td>
   </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/LegendMan46/ChatCibrx">PermaDB /w @rednexie</a>
+    </td
+    <td>
+      <span>Javascript</span>
+    </td>
+    <td>
+      <span>PermaDB is a database management library, uses better-sqlite3 under the hood.</span>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/126991413?v=4" width="100" height="100">
+    </td>
+  </tr>
 </table>
 
 
