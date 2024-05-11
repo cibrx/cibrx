@@ -3,9 +3,16 @@
 - Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
 - Training in Web App Security and also learning NodeJS
 
-## 👩🏻‍💻 My latest projects
+## 👩🏻‍💻 My Projects
 
 <table>
+  <tr>
+    <th>Project Name</th>
+    <th>Language/Tools</th>
+    <th>Description</th>
+    <th>Preview</th>
+    <th>Contributed With</th>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/LegendMan46/ChatCibrx">Chat Cibrx</a>
@@ -19,11 +26,12 @@
     <td>
       <img src="https://github.com/LegendMan46/ChatCibrx/raw/master/public/img/indexAd.png" width="100" height="100">
     </td>
+    <td>-</td>
   </tr>
-    <tr>
+  <tr>
     <td>
-      <a href="https://github.com/LegendMan46/ChatCibrx">PermaDB /w @rednexie</a>
-    </td
+      <a href="https://github.com/LegendMan46/ChatCibrx">PermaDB</a>
+    </td>
     <td>
       <span>Javascript</span>
     </td>
@@ -33,9 +41,9 @@
     <td>
       <img src="https://avatars.githubusercontent.com/u/126991413?v=4" width="100" height="100">
     </td>
+    <td>@rednexie</td>
   </tr>
 </table>
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LegendMan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
