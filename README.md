@@ -3,7 +3,7 @@
 - Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
 - Training in Web App Security and also learning NodeJS
 
-## 👩🏻‍💻 Projects and Contributions
+## 👩🏻‍💻 Latest Projects and Contributions
 
 <table>
   <tr>
