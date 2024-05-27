@@ -15,6 +15,21 @@
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/LegendMan46/kostebek">Kostebek</a>
+    </td>
+    <td>
+      <span>Javascript</span>
+    </td>
+    <td>
+      <span>A web challenge I created for the Bayraksende 2024 CTF competition based on a CSRF vulnerability.</span>
+    </td>
+    <td>
+      <img src="https://bayraksende.com/themes/core-timtal-tr-v2/static/assets/bayraksendelogo.png" width="180" height="100">
+    </td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/LegendMan46/ChatCibrx">Chat Cibrx</a>
     </td>
     <td>
