@@ -12,6 +12,7 @@
     <th>Description</th>
     <th>Preview</th>
     <th>Contributed With</th>
+    <th>Date</th>
   </tr>
   <tr>
     <td>
@@ -26,7 +27,8 @@
     <td>
       <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
     </td>
-    <td>-</td>
+    <td width=10>-</td>
+    <td>May 25, 2024</td>
   </tr>
   <tr>
     <td>
@@ -41,11 +43,12 @@
     <td>
       <img src="https://github.com/LegendMan46/ChatCibrx/raw/master/public/img/indexAd.png" width="100" height="100">
     </td>
-    <td>-</td>
+    <td width=10>-</td>
+    <td>Feb 24, 2024</td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/LegendMan46/ChatCibrx">PermaDB</a>
+      <a href="https://github.com/LegendMan46/PermaDB">PermaDB</a>
     </td>
     <td>
       <span>Javascript</span>
@@ -56,7 +59,8 @@
     <td>
       <img src="https://avatars.githubusercontent.com/u/126991413?v=4" width="100" height="100">
     </td>
-    <td>@rednexie</td>
+    <td width=10>@rednexie</td>
+    <td>Oct 13, 2023</td>
   </tr>
 </table>
 
