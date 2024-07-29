@@ -65,11 +65,7 @@
 </table>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LegendMan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LegendMan46&theme=dark&hide_border=false)<br/>
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LegendMan46&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![cibrx's Stats](https://github-readme-stats.vercel.app/api?username=cibrx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## 🏆 "There Is No Tomorrow"
 <img src="https://tryhackme-badges.s3.amazonaws.com/LegendMan46.png"/>
