@@ -67,5 +67,3 @@
 ## 📊 GitHub Stats:
 ![cibrx's Stats](https://github-readme-stats.vercel.app/api?username=cibrx&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-## 🏆 "There Is No Tomorrow"
-<img src="https://tryhackme-badges.s3.amazonaws.com/LegendMan46.png"/>
