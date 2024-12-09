@@ -1,7 +1,15 @@
 # İbrahim Can <img src="https://github.com/LegendMan46/LegendMan46/blob/main/linux_tux_penguin%20(1).png" width=40 height=40>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=;I%27m%20interested%20in%3A%3BWeb%20Application%20Security%3BMobile%20App%20Security%3BAutomotive%20Hacking%3BWeb%20Development&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=300&size=22" /></a>
+</p>
+
 - Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
 - Training in Web App Security and also learning NodeJS
+- I enjoy creating challenges for CTF competitions eg. @bayraksende
+
 
 ## 👩🏻‍💻 Latest Projects and Contributions
 
