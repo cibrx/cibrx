@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=;I%27m%20interested%20in%3A%3BWeb%20Application%20Security%3BMobile%20App%20Security%3BAutomotive%20Hacking%3BWeb%20Development&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=300&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=;I%27m%20interested%20in%3A%3BWeb%20Application%20Security%3BWeb%20Development%3BNode%20JS%3BPHP%3B&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=300&size=22" /></a>
 </p>
 
 - Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
