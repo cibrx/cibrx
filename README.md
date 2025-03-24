@@ -8,7 +8,7 @@
 
 - Interested in Cyber Security, Programming and GNU Linux/Unix 🐧
 - Training in Web App Security and also learning NodeJS
-- I enjoy creating challenges for CTF competitions eg. [@bayrak-sende](https://github.com/bayraksende)
+- I enjoy creating challenges for CTF competitions eg. [@bayrak-sende](https://github.com/bayrak-sende)
 
 ## 👩🏻‍💻 Latest Projects and Contributions
 
