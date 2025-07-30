@@ -1,4 +1,4 @@
-# İbrahim Can <img src="https://github.com/LegendMan46/LegendMan46/blob/main/linux_tux_penguin%20(1).png" width=40 height=40>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4d573f64-31cb-42e0-877a-62699db93e29" /># İbrahim Can <img src="https://github.com/LegendMan46/LegendMan46/blob/main/linux_tux_penguin%20(1).png" width=40 height=40>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -23,7 +23,87 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/LegendMan46/kostebek">Kostebek</a>
+      <a href="https://github.com/bayraksende/bayraksende2025/tree/main/final/roller-degisiyor">Roller Degisiyor</a>
+    </td>
+    <td>
+      <span></span>
+    </td>
+    <td>
+      <span>Prototype Pollution</span>
+    </td>
+    <td>
+      <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
+    </td>
+    <td width=10>-</td>
+    <td>May 25, 2024</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/bayraksende/bayraksende2025/tree/main/yari_final/YuzuklerinEfendisi">Yüzüklerin Efendisi</a>
+    </td>
+    <td>
+      <span>Javascript</span>
+    </td>
+    <td>
+      <span>Integer Overflow </span>
+    </td>
+    <td>
+      <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
+    </td>
+    <td width=10>-</td>
+    <td>May 25, 2024</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/bayraksende/bayraksende2025/tree/main/yari_final/GeriDonGeriDon">Geri Dön Geri Dön</a>
+    </td>
+    <td>
+      <span>Javascript</span>
+    </td>
+    <td>
+      <span>CSRF</span>
+    </td>
+    <td>
+      <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
+    </td>
+    <td width=10>-</td>
+    <td>May 25, 2024</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/bayraksende/bayraksende2025/tree/main/yari_final/BilesenlerArasi">Bilesenler Arası</a>
+    </td>
+    <td>
+      <span>PHP</span>
+    </td>
+    <td>
+      <span>Path Traversal</span>
+    </td>
+    <td>
+      <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
+    </td>
+    <td width=10>-</td>
+    <td>May 25, 2024</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/bayraksende/bayraksende2025/tree/main/yari_final/ToxicCache">Toxic Cache</a>
+    </td>
+    <td>
+      <span>javascript</span>
+    </td>
+    <td>
+      <span>Web Cache Poisoning</span>
+    </td>
+    <td>
+      <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
+    </td>
+    <td width=10><a href="https://github.com/rednexie">@rednexie</a></td>
+    <td>May 25, 2024</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/cibrx/kostebek">Kostebek</a>
     </td>
     <td>
       <span>Javascript</span>
@@ -39,7 +119,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/LegendMan46/ChatCibrx">Chat Cibrx</a>
+      <a href="https://github.com/cibrx/ChatCibrx">Chat Cibrx</a>
     </td>
     <td>
       <span>Javascript</span>
@@ -48,14 +128,14 @@
       <span>Real-time chat with admin privileges, bot support, and secure data handling.</span>
     </td>
     <td>
-      <img src="https://github.com/LegendMan46/ChatCibrx/raw/master/public/img/indexAd.png" width="100" height="100">
+      <img src="https://github.com/cibrx/ChatCibrx/raw/master/public/img/indexAd.png" width="100" height="100">
     </td>
     <td width=10>-</td>
     <td>Feb 24, 2024</td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/LegendMan46/PermaDB">PermaDB</a>
+      <a href="https://github.com/cibrx/PermaDB">PermaDB</a>
     </td>
     <td>
       <span>Javascript</span>
@@ -66,7 +146,7 @@
     <td>
       <img src="https://avatars.githubusercontent.com/u/126991413?v=4" width="100" height="100">
     </td>
-    <td width=10>@rednexie</td>
+    <td width=10><a href="https://github.com/rednexie">@rednexie</a></td>
     <td>Oct 13, 2023</td>
   </tr>
 </table>
