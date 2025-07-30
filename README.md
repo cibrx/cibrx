@@ -26,7 +26,9 @@
       <a href="https://github.com/bayraksende/bayraksende2025/tree/main/final/roller-degisiyor">Roller Degisiyor</a>
     </td>
     <td>
-      <span><svg src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/JavaScript.svg"></svg></span>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/JavaScript.svg" width="50" height="50" alt="JavaScript Icon">
+</p>
     </td>
     <td>
       <span>Prototype Pollution</span>
@@ -42,7 +44,9 @@
       <a href="https://github.com/bayraksende/bayraksende2025/tree/main/yari_final/YuzuklerinEfendisi">Yüzüklerin Efendisi</a>
     </td>
     <td>
-      <span>Javascript</span>
+      <p align="center">
+  <img src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/JavaScript.svg" width="50" height="50" alt="JavaScript Icon">
+</p>
     </td>
     <td>
       <span>Integer Overflow </span>
@@ -58,7 +62,9 @@
       <a href="https://github.com/bayraksende/bayraksende2025/tree/main/yari_final/GeriDonGeriDon">Geri Dön Geri Dön</a>
     </td>
     <td>
-      <span>Javascript</span>
+      <p align="center">
+  <img src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/JavaScript.svg" width="50" height="50" alt="JavaScript Icon">
+</p>
     </td>
     <td>
       <span>CSRF</span>
@@ -74,7 +80,9 @@
       <a href="https://github.com/bayraksende/bayraksende2025/tree/main/yari_final/BilesenlerArasi">Bilesenler Arası</a>
     </td>
     <td>
-      <span>PHP</span>
+        <p align="center">
+  <img src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/PHP.svg" width="50" height="50" alt="JavaScript Icon">
+</p>
     </td>
     <td>
       <span>Path Traversal</span>
@@ -90,7 +98,9 @@
       <a href="https://github.com/bayraksende/bayraksende2025/tree/main/yari_final/ToxicCache">Toxic Cache</a>
     </td>
     <td>
-      <span>javascript</span>
+      <p align="center">
+  <img src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/JavaScript.svg" width="50" height="50" alt="JavaScript Icon">
+</p>
     </td>
     <td>
       <span>Web Cache Poisoning</span>
@@ -106,7 +116,9 @@
       <a href="https://github.com/cibrx/kostebek">Kostebek</a>
     </td>
     <td>
-      <span>Javascript</span>
+      <p align="center">
+  <img src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/JavaScript.svg" width="50" height="50" alt="JavaScript Icon">
+</p>
     </td>
     <td>
       <span>A web challenge I created for the Bayraksende 2024 CTF competition based on a CSRF vulnerability.</span>
@@ -122,7 +134,9 @@
       <a href="https://github.com/cibrx/ChatCibrx">Chat Cibrx</a>
     </td>
     <td>
-      <span>Javascript</span>
+      <p align="center">
+  <img src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/JavaScript.svg" width="50" height="50" alt="JavaScript Icon">
+</p>
     </td>
     <td>
       <span>Real-time chat with admin privileges, bot support, and secure data handling.</span>
@@ -138,7 +152,9 @@
       <a href="https://github.com/cibrx/PermaDB">PermaDB</a>
     </td>
     <td>
-      <span>Javascript</span>
+      <p align="center">
+  <img src="https://raw.githubusercontent.com/cibrx/cibrx/refs/heads/main/JavaScript.svg" width="50" height="50" alt="JavaScript Icon">
+</p>
     </td>
     <td>
       <span>PermaDB is a database management library, uses better-sqlite3 under the hood.</span>
