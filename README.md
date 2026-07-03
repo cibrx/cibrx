@@ -37,7 +37,7 @@
       <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
     </td>
     <td width=10>-</td>
-    <td>May 25, 2024</td>
+    <td>May, 2025</td>
   </tr>
   <tr>
     <td>
@@ -55,7 +55,7 @@
       <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
     </td>
     <td width=10>-</td>
-    <td>May 25, 2024</td>
+    <td>May, 2025</td>
   </tr>
   <tr>
     <td>
@@ -73,7 +73,7 @@
       <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
     </td>
     <td width=10>-</td>
-    <td>May 25, 2024</td>
+    <td>May, 2025</td>
   </tr>
   <tr>
     <td>
@@ -91,7 +91,7 @@
       <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
     </td>
     <td width=10>-</td>
-    <td>May 25, 2024</td>
+    <td>May, 2025</td>
   </tr>
   <tr>
     <td>
@@ -109,7 +109,7 @@
       <img src="https://i.ytimg.com/vi/AifEHS2qxbE/hqdefault.jpg" width="180" height="100">
     </td>
     <td width=10><a href="https://github.com/rednexie">@rednexie</a></td>
-    <td>May 25, 2024</td>
+    <td>May, 2025</td>
   </tr>
   <tr>
     <td>
